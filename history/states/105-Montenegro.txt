@@ -18,7 +18,10 @@ state={
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
+			industrial_complex = 2
+			arms_factory = 3
+			air_base = 1
+			dockyard = 1
 			9809 = {
 				naval_base = 1
 			}
